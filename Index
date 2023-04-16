@@ -120,8 +120,8 @@
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
   ></script>
-  <script src="utilis.js"></script>
-  <script src="joji.js"></script>
-  <script src="Jojo.js"></script>
+  <script src="utilidades.js"></script>
+  <script src="modelo.js"></script>
+  <script src="finalizacao.js"></script>
 </body>
 </html>
